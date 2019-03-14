@@ -1,0 +1,1 @@
+export const CHANGE_INPUT_TYPE='change_input_type';

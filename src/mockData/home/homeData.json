@@ -1,0 +1,68 @@
+{
+  "code": 200,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "读书",
+        "imgUrl": "//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+        "linkUrl": "/c/yD9GAd?utm_medium=index-collections&utm_source=desktop"
+      },
+      {
+        "id": 2,
+        "title": "摄影",
+        "imgUrl": "//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+        "linkUrl": "/c/7b2be866f564?utm_medium=index-collections&utm_source=desktop"
+      },
+      {
+        "id": 3,
+        "title": "故事",
+        "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+        "linkUrl": "/c/fcd7a62be697?utm_medium=index-collections&utm_source=desktop"
+      }
+    ],
+    "articalList":[
+      {
+        "id":1,
+        "title":"揭露斗米app推广兼职内幕",
+        "desc":"因为急于凑够141到学校的车费，我在斗米上搜“在家可做”找了一份兼职。 添加客服小姐姐QQ后收到信息： 恭喜你 已成功添加斗米客服老师 任务流程...",
+        "imgUrl":"http://upload-images.jianshu.io/upload_images/15386608-f9de68cb9d99312d.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "writer":"侃侃__",
+        "like":12,
+        "commentNum":234
+      },
+      {
+        "id":2,
+        "title":"这位1米74的女大学生火了!雨天最萌身高差,岂止于美!",
+        "desc":"文章来源：未来网 11月18日 杭州有雨 一位93岁的老奶奶 撑着伞走在杭州湖州街上 一个不留神，踩进了一处水坑 老人重重摔倒在地，起不了身 浙...",
+        "imgUrl":"http://upload-images.jianshu.io/upload_images/10289013-5c67e88d440bd27c?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "writer":"侃侃__",
+        "like":122,
+        "commentNum":44
+      },
+      {
+        "id":3,
+        "title":"朋友圈残酷测试：最好的朋友，和你没有聊天记录",
+        "desc":"“你的手机通讯录里，有多少个好友？ 不考虑工作交往，有多少人你绝不会主动联系？ 除了家人，你有几个能说真心话的朋友？ 你和他们，有多久没有联系了...",
+        "imgUrl":"http://upload-images.jianshu.io/upload_images/6126137-2ad99c499bdce92d?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "writer":"侃侃__",
+        "like":5,
+        "commentNum":13
+      }
+    ],
+    "recommend":[
+      {
+        "id":1,
+        "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+      },
+      {
+        "id":2,
+        "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+      },
+      {
+        "id":3,
+        "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      }
+    ]
+  }
+}
